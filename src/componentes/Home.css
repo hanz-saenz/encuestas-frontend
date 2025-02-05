@@ -1,0 +1,21 @@
+.content {
+    padding: 2rem;
+    background-color: #ffffff;
+    margin: 2rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.content h1 {
+    color: #34495e;
+    margin-bottom: 1.5rem;
+}
+
+/* Información adicional */
+.info {
+    margin: 2rem;
+    padding: 1rem;
+    background-color: #ecf0f1;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

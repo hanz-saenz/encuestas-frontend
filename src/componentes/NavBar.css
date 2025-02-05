@@ -1,0 +1,32 @@
+/* Navbar */
+.navbar {
+    background-color: #2c3e50;
+    padding: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item {
+    margin: 0 1rem;
+}
+
+.nav-item a {
+    text-decoration: none;
+    color: #ecf0f1;
+    font-weight: bold;
+}
+
+.nav-item a:hover {
+    color: #3498db;
+}
+
+.active {
+    color: #1abc9c;
+}
